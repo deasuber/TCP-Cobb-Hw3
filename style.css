@@ -1,0 +1,19 @@
+header{
+    height: 50px;
+}
+.nav-link{
+    color: blue;
+}
+.nav-link.active{background-color: blue;color: cornsilk;}
+ 
+h1{color: cornsilk;}
+
+.wd{background-color: purple;}
+
+
+
+p {
+    color: cornsilk;
+    font-family: verdana;
+    font-size: 35px;
+  }
